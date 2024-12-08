@@ -20,12 +20,12 @@ Infrastructure optimization techniques
 💡 Technical Skills
 
 Cloud Platforms
-Aws
+Aws,
 Azure
 
 Infrastructure as Code
-Terraform
-Cloud formation
+Terraform,
+Cloud formation,
 Azure templates
 
 CI/CD & Containerization
@@ -35,8 +35,8 @@ Gitlab
 k8s
 
 Monitoring & Logging
-PROMETHEUS
-Graffana 
+PROMETHEUS,
+Graffana,
 ELK
 
 💞️ I'm Looking to Collaborate On
